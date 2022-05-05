@@ -1,0 +1,33 @@
+ul{
+	list-style-type:none;   /*去掉列表前面的小圆点*/
+	margin:0;
+	padding:0;
+}
+li{
+	float:left;
+}
+a:link,a:visited{
+	display:block;
+	width:200px;
+	height: 33px;
+	font-weight: bold;  /*字体加粗*/
+	font-size: 22px;
+	color:#4d728f;
+	background-color:#c5c5c5;
+	text-align: center ; 
+	padding:19px;
+	text-decoration: none;   /*去掉下划线*/
+	}
+a:hover,a:active{
+	background-color:#e6e6e6;
+}
+ul{
+	margin-left: 100px;      /*列表外左间距*/
+}
+.index_t1{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 100px;
+	width: 1190px;
+	height: 334px;
+}
