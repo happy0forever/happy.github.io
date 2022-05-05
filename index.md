@@ -1,18 +1,31 @@
-## Welcome to GitHub Pages
+## 欢迎光临我的个人主页
 
-You can use the [editor on GitHub](https://github.com/happy0forever/happy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+你 可 以 通 过 [空 间](https://user.qzone.qq.com/2406429953) 来 了 解 我  嘻 嘻~
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+茫 茫 万 千 世 界 相 遇 就 是 缘 分  谢 谢 我 的 身 边 出 现 你 ！ ！
 
-### Markdown
+### love
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+做好自己 保持快乐 努力上进 积极乐观 超级正能量 
 ```markdown
-Syntax highlighted code block
+接下来是优美文案摘抄咯
 
-# Header 1
-## Header 2
+# 少年感
+
+心 无 褶 皱 行 至 春 光
+
+枫 下 的 秋 千 盛 夏 的 暗 恋
+
+少 年 没 有 乌 托 邦 心 向 远 方 自 明 朗
+
+## 读报金句
+
+初 见 乍 惊 欢 久 处 亦 怦 然
+
+日 落 跌 入 昭 昭 星 野 ，人 间 忽 晚 ，山 河 以 秋
+
+若 你 决 定 灿 烂 ，山 无 遮 ， 海 无 拦
+
 ### Header 3
 
 - Bulleted
